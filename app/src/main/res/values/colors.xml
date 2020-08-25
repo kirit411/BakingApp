@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_800">#8BC34A</color>
+    <color name="primary_500">#0B03F4</color>
+    <color name="primary_100">#86FF3B</color>
+    <color name="secondary_800">#9EC200</color>
+    <color name="secondary_500">#0091D4</color>
+    <color name="secondary_100">#00BCD4</color>
+    <color name="colorAccent">#F44336</color>
+
+    <color name="bg_recipe_detail">#F2FFFDE6</color>
+
+    <color name="md_white_1000">#FFFFFF</color>
+</resources>
